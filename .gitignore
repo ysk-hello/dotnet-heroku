@@ -1,0 +1,3 @@
+dotnet-heroku/bin/
+dotnet-heroku/obj/
+.vs/
